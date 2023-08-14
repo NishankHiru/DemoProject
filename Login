@@ -2,3 +2,4 @@ Enter user name
 enter passwsord 
 click on check box 
 then clik on login button.
+go to home page.
